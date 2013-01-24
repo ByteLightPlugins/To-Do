@@ -1,72 +1,72 @@
 #item-input {
-    height: 40px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgb(204, 204, 204);
-    box-sizing: border-box;
-    font-size: 20px;
-    border-radius: 1px;
-    add padding: 5px;
+  height: 40px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(204, 204, 204);
+  box-sizing: border-box;
+  font-size: 20px;
+  border-radius: 1px;
+  add padding: 5px;
 }
 
 #input-container {
-    margin-top: 8px;
+  margin-top: 8px;
 }
 
 #item-input {
-    width: 75%;
+  width: 75%;
 }
 
 #add-button {
-    width: 24%;
-    height: 40px;
+  width: 24%;
+  height: 40px;
 }
 
 #list-container {
-    margin-top: 8px;
+  margin-top: 8px;
 }
 
 .bottom-border {
-    padding-bottom: 3px;
-    border-bottom-width: 1px;
-    border-bottom-color: rgb(204, 204, 204);
-    border-bottom-style: solid;
+  padding-bottom: 3px;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(204, 204, 204);
+  border-bottom-style: solid;
 }
 
 #title {
-    width: 100%;
-    margin-bottom: 10px;
+  width: 100%;
+  margin-bottom: 10px;
 }
 
 #items-list {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 #items-list li {
-    margin-top: 8px;
-    margin-bottom: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .text.light {
-    color: rgb(100, 100, 100);
+  color: rgb(100, 100, 100);
 }
 
 .left {
-    float: left;
+  float: left;
 }
 
 .right {
-    float: right;
+  float: right;
 }
 
 .text {
-    display: inline;
-    font-size: 25px;
-    width: auto;
-    height: auto;
+  display: inline;
+  font-size: 25px;
+  width: auto;
+  height: auto;
 }
 
 body {
-    margin-left: 8px;
-    margin-right: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
